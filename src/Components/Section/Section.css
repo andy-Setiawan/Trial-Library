@@ -1,0 +1,84 @@
+@import url("https://fonts.googleapis.com/css?family=Sniglet");
+
+.section-box {
+  padding: 5px;
+}
+.input-group {
+  margin-top: 10px;
+}
+
+.input-search {
+  margin: 15px 0px 15px 0px;
+}
+
+.icon-input {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 38px;
+  height: 38px;
+  background-color: gainsboro;
+  margin-left: 5px;
+}
+
+.form input {
+  height: 38px;
+  margin-right: 5px;
+}
+
+.input-search input {
+  height: 38px;
+  margin-right: 5px;
+  border-radius: 50px;
+}
+
+button {
+  height: 38px;
+  width: 38px;
+  margin-right: 5px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.list {
+  font-family: "Sniglet", cursive;
+  display: flex;
+}
+
+.list-novel {
+  width: 75vw;
+  word-wrap: break-word;
+}
+
+.list-title {
+  font-size: 20px;
+}
+
+.list-author {
+  font-size: 14px;
+}
+
+.list-genre {
+  margin-left: 5px;
+  font-size: 14px;
+  margin-right: 10px;
+}
+
+.list-chapter {
+  margin-left: 5px;
+  font-size: 14px;
+}
+
+.list-action {
+  width: 20vw;
+  border-color: transparent;
+  text-align: center;
+}
+
+.request-label {
+  padding: 5px;
+  font-size: 15px;
+  font-family: "Sniglet", cursive;
+  font-weight: 500;
+}
